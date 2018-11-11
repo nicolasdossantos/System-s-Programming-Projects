@@ -1,0 +1,7 @@
+cd ..
+dir
+echo It Works
+pause
+ls | wc
+
+

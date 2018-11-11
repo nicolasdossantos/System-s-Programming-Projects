@@ -1,0 +1,11 @@
+
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+hej.txt
+lab2
+lab2.cbp
+nick.txt
+readme
+test.txt

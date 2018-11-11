@@ -1,0 +1,55 @@
+Name
+Nick’s Shell – A Simple Unix Shell
+
+Author:
+Nicolas dos Santos
+
+Description:
+
+This is a simple command line shell, that will execute commands entered in the command line or through a batch file. It behaves similarly to commercial shells. To start, type a command in the command line and press enter. Below you will find a list of commands you can try.
+
+Built-in commands:
+
+echo				echo [string] – Will print the string into command line
+
+dir				It prints the content of the current working directory on the screen
+
+pause				It will pause the shell until the return key is pressed
+
+help				Will display this document on the screen
+
+environ 			Displays your environment information – such as username, home path, and etc.
+
+cd				cd [absolute path] , cd [./relative path], or cd
+				Changes current working directory to specified path.
+				If no path is specified, it will take you to your home path.
+	
+clr 				It will clear your prompt window.
+
+exit 				exits Nick’s shell
+
+Background Execution:
+To execute your command in the background, simply add & to the end of your command. Ex: “echo& test”. This way you can still use the shell while the command is ran.
+
+Redirection and Pipping:
+
+This shell supports I/O redirection and I/O pipping, here is how to use it:
+
+command > file
+Here, the output of the command will be written to the specified file. If the file does not exist, it will create the file. If it does exist it will truncate the output.
+
+command >> file
+Similar to the command above, but instead of truncating the file, it appends to its content.
+
+command < file
+Here, the command takes input from the file.
+
+command > file1 < file2
+Here, will take input from file 2 and print it to file 1
+
+command < file1 > file2 
+Here, the command will take input from file 1 and print to file 2
+
+command1 | command2
+Output of command 1 is used as input on command2
+

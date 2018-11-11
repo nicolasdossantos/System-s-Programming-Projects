@@ -1,0 +1,58 @@
+Socket: 7
+Word Entered: hello
+Result: Spelled Correctly
+
+Socket: 7
+Word Entered: nicolas
+Result: Spelled Correctly
+
+Socket: 7
+Word Entered: make
+Result: Spelled Correctly
+
+Socket: 7
+Word Entered: break
+Result: Spelled Correctly
+
+Socket: 7
+Word Entered: haihaiuh
+Result: Misspelled
+
+Socket: 8
+Word Entered: church
+Result: Spelled Correctly
+
+Socket: 8
+Word Entered: lunch
+Result: Spelled Correctly
+
+Socket: 8
+Word Entered: kdjj
+Result: Misspelled
+
+Socket: 9
+Word Entered: jks
+
+Result: Misspelled
+
+Socket: 9
+Word Entered: make
+Result: Spelled Correctly
+
+Socket: 9
+Word Entered: jdhd
+Result: Misspelled
+
+Socket: 9
+Word Entered: john
+Result: Spelled Correctly
+
+Socket: 10
+Word Entered: hello
+Result: Spelled Correctly
+
+Socket: 11
+Word Entered: jiejepe
+¸$
+Result: Misspelled
+

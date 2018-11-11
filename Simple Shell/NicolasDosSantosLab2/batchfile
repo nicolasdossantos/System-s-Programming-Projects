@@ -1,0 +1,6 @@
+cd ..
+dir
+echo It Works
+pause
+
+
