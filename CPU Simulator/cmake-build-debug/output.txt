@@ -1,0 +1,1929 @@
+At time    0 job    0 indicates that simulation has ended
+At time    0 job    1 arrives at CPU
+At time   10 job    2 arrives at CPU
+At time   21 job    1 finishes at CPU
+At time   21 job    1 exited
+At time   38 job    3 arrives at CPU
+At time   50 job    2 finishes at CPU
+At time   50 job    4 arrives at CPU
+At time   50 job    2 arrives at Disk
+At time   69 job    2 finishes IO at disk II
+At time   73 job    3 finishes at CPU
+At time   73 job    3 arrives at Disk
+At time   78 job    5 arrives at CPU
+At time   95 job    4 finishes at CPU
+At time   95 job    6 arrives at CPU
+At time   95 job    4 arrives at Disk
+At time  100 job    3 finishes IO at disk II
+At time  105 job    7 arrives at CPU
+At time  114 job    2 finishes at CPU
+At time  114 job    2 arrives at Disk
+At time  123 job    4 finishes IO at disk I
+At time  130 job    2 finishes IO at disk II
+At time  133 job    8 arrives at CPU
+At time  135 job    5 finishes at CPU
+At time  135 job    5 arrives at Disk
+At time  144 job    9 arrives at CPU
+At time  155 job    6 finishes at CPU
+At time  155 job    6 arrives at Disk
+At time  158 job    5 finishes IO at disk II
+At time  170 job   10 arrives at CPU
+At time  177 job    6 finishes IO at disk I
+At time  180 job    3 finishes at CPU
+At time  180 job    3 exited
+At time  192 job   11 arrives at CPU
+At time  198 job    7 finishes at CPU
+At time  198 job    7 arrives at Disk
+At time  203 job   12 arrives at CPU
+At time  213 job   13 arrives at CPU
+At time  217 job    4 finishes at CPU
+At time  217 job    4 exited
+At time  224 job    7 finishes IO at disk II
+At time  239 job    2 finishes at CPU
+At time  239 job    2 arrives at Disk
+At time  240 job   14 arrives at CPU
+At time  253 job   15 arrives at CPU
+At time  263 job    2 finishes IO at disk II
+At time  267 job    8 finishes at CPU
+At time  267 job    8 arrives at Disk
+At time  275 job   16 arrives at CPU
+At time  283 job    8 finishes IO at disk II
+At time  296 job    9 finishes at CPU
+At time  296 job    9 exited
+At time  298 job   17 arrives at CPU
+At time  308 job    5 finishes at CPU
+At time  308 job    5 exited
+At time  309 job   18 arrives at CPU
+At time  330 job   10 finishes at CPU
+At time  330 job   10 arrives at Disk
+At time  334 job   19 arrives at CPU
+At time  345 job    6 finishes at CPU
+At time  345 job    6 arrives at Disk
+At time  358 job   10 finishes IO at disk II
+At time  361 job   20 arrives at CPU
+At time  367 job    6 finishes IO at disk I
+At time  370 job   11 finishes at CPU
+At time  370 job   11 arrives at Disk
+At time  380 job   21 arrives at CPU
+At time  389 job   12 finishes at CPU
+At time  389 job   12 arrives at Disk
+At time  396 job   22 arrives at CPU
+At time  397 job   11 finishes IO at disk II
+At time  409 job   13 finishes at CPU
+At time  409 job   13 arrives at Disk
+At time  414 job   23 arrives at CPU
+At time  418 job   12 finishes IO at disk I
+At time  430 job   13 finishes IO at disk II
+At time  431 job    7 finishes at CPU
+At time  431 job    7 arrives at Disk
+At time  438 job   24 arrives at CPU
+At time  448 job   25 arrives at CPU
+At time  454 job    7 finishes IO at disk II
+At time  456 job   14 finishes at CPU
+At time  456 job   14 arrives at Disk
+At time  470 job   26 arrives at CPU
+At time  472 job   14 finishes IO at disk II
+At time  482 job   15 finishes at CPU
+At time  482 job   15 arrives at Disk
+At time  495 job   15 finishes IO at disk II
+At time  499 job   27 arrives at CPU
+At time  509 job    2 finishes at CPU
+At time  509 job    2 exited
+At time  525 job   16 finishes at CPU
+At time  525 job   16 arrives at Disk
+At time  527 job   28 arrives at CPU
+At time  541 job   29 arrives at CPU
+At time  542 job   16 finishes IO at disk II
+At time  550 job    8 finishes at CPU
+At time  550 job    8 exited
+At time  552 job   30 arrives at CPU
+At time  576 job   31 arrives at CPU
+At time  578 job   17 finishes at CPU
+At time  578 job   17 exited
+At time  598 job   32 arrives at CPU
+At time  605 job   18 finishes at CPU
+At time  605 job   18 arrives at Disk
+At time  615 job   19 finishes at CPU
+At time  615 job   19 arrives at Disk
+At time  625 job   10 finishes at CPU
+At time  625 job   10 exited
+At time  626 job   33 arrives at CPU
+At time  630 job   18 finishes IO at disk II
+At time  635 job   19 finishes IO at disk I
+At time  638 job   20 finishes at CPU
+At time  638 job   20 exited
+At time  650 job   34 arrives at CPU
+At time  653 job    6 finishes at CPU
+At time  653 job    6 exited
+At time  668 job   35 arrives at CPU
+At time  678 job   21 finishes at CPU
+At time  678 job   21 arrives at Disk
+At time  691 job   36 arrives at CPU
+At time  696 job   22 finishes at CPU
+At time  696 job   22 exited
+At time  697 job   21 finishes IO at disk II
+At time  708 job   11 finishes at CPU
+At time  708 job   11 arrives at Disk
+At time  714 job   37 arrives at CPU
+At time  725 job   23 finishes at CPU
+At time  725 job   23 arrives at Disk
+At time  733 job   11 finishes IO at disk II
+At time  737 job   38 arrives at CPU
+At time  742 job   23 finishes IO at disk I
+At time  747 job   12 finishes at CPU
+At time  747 job   12 arrives at Disk
+At time  753 job   39 arrives at CPU
+At time  772 job   12 finishes IO at disk II
+At time  775 job   13 finishes at CPU
+At time  775 job   13 arrives at Disk
+At time  778 job   40 arrives at CPU
+At time  787 job   24 finishes at CPU
+At time  787 job   24 exited
+At time  797 job   13 finishes IO at disk II
+At time  804 job   41 arrives at CPU
+At time  811 job   25 finishes at CPU
+At time  811 job   25 arrives at Disk
+At time  817 job   42 arrives at CPU
+At time  825 job    7 finishes at CPU
+At time  825 job    7 arrives at Disk
+At time  826 job   25 finishes IO at disk II
+At time  832 job   43 arrives at CPU
+At time  845 job    7 finishes IO at disk I
+At time  849 job   44 arrives at CPU
+At time  852 job   26 finishes at CPU
+At time  852 job   26 arrives at Disk
+At time  869 job   45 arrives at CPU
+At time  878 job   26 finishes IO at disk II
+At time  879 job   14 finishes at CPU
+At time  879 job   14 arrives at Disk
+At time  887 job   46 arrives at CPU
+At time  890 job   15 finishes at CPU
+At time  890 job   14 finishes IO at disk II
+At time  890 job   15 arrives at Disk
+At time  905 job   47 arrives at CPU
+At time  905 job   27 finishes at CPU
+At time  905 job   15 finishes IO at disk II
+At time  905 job   27 arrives at Disk
+At time  924 job   27 finishes IO at disk II
+At time  927 job   48 arrives at CPU
+At time  930 job   28 finishes at CPU
+At time  930 job   28 arrives at Disk
+At time  940 job   28 finishes IO at disk II
+At time  945 job   49 arrives at CPU
+At time  955 job   50 arrives at CPU
+At time  956 job   29 finishes at CPU
+At time  956 job   29 arrives at Disk
+At time  970 job   16 finishes at CPU
+At time  970 job   16 arrives at Disk
+At time  971 job   29 finishes IO at disk II
+At time  983 job   30 finishes at CPU
+At time  983 job   51 arrives at CPU
+At time  983 job   30 arrives at Disk
+At time  998 job   16 finishes IO at disk I
+At time 1007 job   52 arrives at CPU
+At time 1007 job   30 finishes IO at disk II
+At time 1010 job   31 finishes at CPU
+At time 1010 job   31 arrives at Disk
+At time 1020 job   53 arrives at CPU
+At time 1036 job   32 finishes at CPU
+At time 1036 job   32 arrives at Disk
+At time 1037 job   31 finishes IO at disk II
+At time 1048 job   54 arrives at CPU
+At time 1055 job   32 finishes IO at disk I
+At time 1057 job   33 finishes at CPU
+At time 1057 job   33 arrives at Disk
+At time 1059 job   55 arrives at CPU
+At time 1067 job   33 finishes IO at disk II
+At time 1074 job   18 finishes at CPU
+At time 1074 job   18 arrives at Disk
+At time 1082 job   56 arrives at CPU
+At time 1091 job   18 finishes IO at disk II
+At time 1100 job   19 finishes at CPU
+At time 1100 job   19 arrives at Disk
+At time 1101 job   57 arrives at CPU
+At time 1110 job   34 finishes at CPU
+At time 1110 job   34 arrives at Disk
+At time 1112 job   58 arrives at CPU
+At time 1123 job   35 finishes at CPU
+At time 1123 job   35 arrives at Disk
+At time 1128 job   19 finishes IO at disk II
+At time 1131 job   34 finishes IO at disk I
+At time 1133 job   59 arrives at CPU
+At time 1143 job   36 finishes at CPU
+At time 1143 job   36 arrives at Disk
+At time 1153 job   36 finishes IO at disk I
+At time 1159 job   60 arrives at CPU
+At time 1172 job   21 finishes at CPU
+At time 1172 job   21 arrives at Disk
+At time 1173 job   61 arrives at CPU
+At time 1183 job   62 arrives at CPU
+At time 1190 job   21 finishes IO at disk I
+At time 1192 job   37 finishes at CPU
+At time 1192 job   37 arrives at Disk
+At time 1194 job   63 arrives at CPU
+At time 1209 job   37 finishes IO at disk I
+At time 1217 job   11 finishes at CPU
+At time 1217 job   64 arrives at CPU
+At time 1217 job   11 arrives at Disk
+At time 1228 job   38 finishes at CPU
+At time 1228 job   38 arrives at Disk
+At time 1230 job   11 finishes IO at disk I
+At time 1239 job   23 finishes at CPU
+At time 1239 job   23 arrives at Disk
+At time 1243 job   65 arrives at CPU
+At time 1253 job   35 finishes IO at disk II
+At time 1253 job   23 finishes IO at disk I
+At time 1261 job   39 finishes at CPU
+At time 1261 job   66 arrives at CPU
+At time 1261 job   39 arrives at Disk
+At time 1274 job   67 arrives at CPU
+At time 1275 job   12 finishes at CPU
+At time 1275 job   12 arrives at Disk
+At time 1280 job   39 finishes IO at disk I
+At time 1287 job   68 arrives at CPU
+At time 1297 job   40 finishes at CPU
+At time 1297 job   40 arrives at Disk
+At time 1298 job   38 finishes IO at disk II
+At time 1312 job   69 arrives at CPU
+At time 1318 job   40 finishes IO at disk I
+At time 1322 job   13 finishes at CPU
+At time 1322 job   13 arrives at Disk
+At time 1339 job   13 finishes IO at disk I
+At time 1340 job   70 arrives at CPU
+At time 1348 job   41 finishes at CPU
+At time 1348 job   41 arrives at Disk
+At time 1363 job   42 finishes at CPU
+At time 1363 job   42 arrives at Disk
+At time 1366 job   71 arrives at CPU
+At time 1367 job   41 finishes IO at disk I
+At time 1378 job   25 finishes at CPU
+At time 1378 job   25 arrives at Disk
+At time 1384 job   12 finishes IO at disk II
+At time 1388 job   25 finishes IO at disk I
+At time 1395 job   72 arrives at CPU
+At time 1407 job   43 finishes at CPU
+At time 1407 job   43 arrives at Disk
+At time 1419 job   73 arrives at CPU
+At time 1426 job    7 finishes at CPU
+At time 1426 job    7 exited
+At time 1432 job   43 finishes IO at disk I
+At time 1443 job   74 arrives at CPU
+At time 1448 job   44 finishes at CPU
+At time 1448 job   44 arrives at Disk
+At time 1458 job   45 finishes at CPU
+At time 1458 job   45 exited
+At time 1461 job   44 finishes IO at disk I
+At time 1462 job   75 arrives at CPU
+At time 1474 job   76 arrives at CPU
+At time 1475 job   26 finishes at CPU
+At time 1475 job   26 arrives at Disk
+At time 1486 job   77 arrives at CPU
+At time 1500 job   26 finishes IO at disk I
+At time 1501 job   46 finishes at CPU
+At time 1501 job   46 arrives at Disk
+At time 1508 job   78 arrives at CPU
+At time 1528 job   14 finishes at CPU
+At time 1528 job   14 exited
+At time 1530 job   46 finishes IO at disk I
+At time 1533 job   79 arrives at CPU
+At time 1551 job   80 arrives at CPU
+At time 1556 job   47 finishes at CPU
+At time 1556 job   47 exited
+At time 1561 job   81 arrives at CPU
+At time 1573 job   15 finishes at CPU
+At time 1573 job   15 arrives at Disk
+At time 1586 job   82 arrives at CPU
+At time 1591 job   15 finishes IO at disk I
+At time 1600 job   27 finishes at CPU
+At time 1600 job   27 arrives at Disk
+At time 1611 job   83 arrives at CPU
+At time 1620 job   27 finishes IO at disk I
+At time 1622 job   84 arrives at CPU
+At time 1624 job   48 finishes at CPU
+At time 1624 job   48 arrives at Disk
+At time 1639 job   85 arrives at CPU
+At time 1642 job   48 finishes IO at disk I
+At time 1650 job   28 finishes at CPU
+At time 1650 job   28 exited
+At time 1667 job   49 finishes at CPU
+At time 1667 job   49 exited
+At time 1668 job   86 arrives at CPU
+At time 1681 job   87 arrives at CPU
+At time 1692 job   88 arrives at CPU
+At time 1693 job   50 finishes at CPU
+At time 1693 job   50 arrives at Disk
+At time 1714 job   29 finishes at CPU
+At time 1714 job   29 arrives at Disk
+At time 1715 job   89 arrives at CPU
+At time 1719 job   50 finishes IO at disk I
+At time 1731 job   51 finishes at CPU
+At time 1731 job   51 arrives at Disk
+At time 1735 job   42 finishes IO at disk II
+At time 1740 job   90 arrives at CPU
+At time 1741 job   51 finishes IO at disk I
+At time 1750 job   91 arrives at CPU
+At time 1757 job   16 finishes at CPU
+At time 1757 job   16 arrives at Disk
+At time 1772 job   52 finishes at CPU
+At time 1772 job   92 arrives at CPU
+At time 1772 job   52 arrives at Disk
+At time 1777 job   16 finishes IO at disk I
+At time 1787 job   29 finishes IO at disk II
+At time 1798 job   30 finishes at CPU
+At time 1798 job   30 arrives at Disk
+At time 1799 job   93 arrives at CPU
+At time 1808 job   53 finishes at CPU
+At time 1808 job   53 arrives at Disk
+At time 1813 job   30 finishes IO at disk I
+At time 1820 job   94 arrives at CPU
+At time 1833 job   52 finishes IO at disk II
+At time 1834 job   31 finishes at CPU
+At time 1834 job   31 arrives at Disk
+At time 1837 job   95 arrives at CPU
+At time 1850 job   54 finishes at CPU
+At time 1850 job   54 exited
+At time 1854 job   31 finishes IO at disk I
+At time 1863 job   96 arrives at CPU
+At time 1878 job   32 finishes at CPU
+At time 1878 job   32 arrives at Disk
+At time 1886 job   97 arrives at CPU
+At time 1899 job   98 arrives at CPU
+At time 1903 job   55 finishes at CPU
+At time 1903 job   55 arrives at Disk
+At time 1904 job   32 finishes IO at disk I
+At time 1913 job   99 arrives at CPU
+At time 1923 job   33 finishes at CPU
+At time 1923 job   33 arrives at Disk
+At time 1927 job   53 finishes IO at disk II
+At time 1938 job  100 arrives at CPU
+At time 1945 job   33 finishes IO at disk I
+At time 1950 job  101 arrives at CPU
+At time 1951 job   56 finishes at CPU
+At time 1951 job   56 arrives at Disk
+At time 1972 job   18 finishes at CPU
+At time 1972 job   56 finishes IO at disk I
+At time 1972 job   18 arrives at Disk
+At time 1975 job  102 arrives at CPU
+At time 1983 job   57 finishes at CPU
+At time 1983 job   57 exited
+At time 1989 job   18 finishes IO at disk I
+At time 1995 job  103 arrives at CPU
+At time 1995 job   58 finishes at CPU
+At time 1995 job   58 arrives at Disk
+At time 2006 job   58 finishes IO at disk I
+At time 2009 job  104 arrives at CPU
+At time 2015 job   19 finishes at CPU
+At time 2015 job   19 arrives at Disk
+At time 2025 job   19 finishes IO at disk I
+At time 2036 job  105 arrives at CPU
+At time 2040 job   34 finishes at CPU
+At time 2040 job   34 arrives at Disk
+At time 2055 job  106 arrives at CPU
+At time 2055 job   34 finishes IO at disk I
+At time 2063 job   59 finishes at CPU
+At time 2063 job   59 arrives at Disk
+At time 2081 job  107 arrives at CPU
+At time 2087 job   36 finishes at CPU
+At time 2087 job   36 arrives at Disk
+At time 2091 job   59 finishes IO at disk I
+At time 2104 job   55 finishes IO at disk II
+At time 2108 job  108 arrives at CPU
+At time 2116 job   60 finishes at CPU
+At time 2116 job   60 arrives at Disk
+At time 2123 job  109 arrives at CPU
+At time 2126 job   60 finishes IO at disk I
+At time 2133 job  110 arrives at CPU
+At time 2135 job   61 finishes at CPU
+At time 2135 job   61 exited
+At time 2155 job   62 finishes at CPU
+At time 2155 job   62 arrives at Disk
+At time 2157 job  111 arrives at CPU
+At time 2165 job   21 finishes at CPU
+At time 2165 job   21 exited
+At time 2175 job  112 arrives at CPU
+At time 2177 job   62 finishes IO at disk I
+At time 2184 job   63 finishes at CPU
+At time 2184 job   63 exited
+At time 2191 job  113 arrives at CPU
+At time 2196 job   37 finishes at CPU
+At time 2196 job   37 arrives at Disk
+At time 2212 job  114 arrives at CPU
+At time 2218 job   37 finishes IO at disk I
+At time 2224 job   64 finishes at CPU
+At time 2224 job   64 arrives at Disk
+At time 2231 job  115 arrives at CPU
+At time 2241 job   64 finishes IO at disk I
+At time 2247 job  116 arrives at CPU
+At time 2253 job   11 finishes at CPU
+At time 2253 job   11 exited
+At time 2271 job  117 arrives at CPU
+At time 2275 job   65 finishes at CPU
+At time 2275 job   65 arrives at Disk
+At time 2287 job  118 arrives at CPU
+At time 2287 job   65 finishes IO at disk I
+At time 2293 job   35 finishes at CPU
+At time 2293 job   35 arrives at Disk
+At time 2309 job   23 finishes at CPU
+At time 2309 job   23 arrives at Disk
+At time 2310 job  119 arrives at CPU
+At time 2322 job   35 finishes IO at disk I
+At time 2331 job   36 finishes IO at disk II
+At time 2334 job   66 finishes at CPU
+At time 2334 job   66 arrives at Disk
+At time 2339 job  120 arrives at CPU
+At time 2346 job   66 finishes IO at disk I
+At time 2360 job   67 finishes at CPU
+At time 2360 job  121 arrives at CPU
+At time 2360 job   67 arrives at Disk
+At time 2380 job   39 finishes at CPU
+At time 2380 job   39 arrives at Disk
+At time 2383 job   67 finishes IO at disk I
+At time 2389 job  122 arrives at CPU
+At time 2398 job   68 finishes at CPU
+At time 2398 job   68 arrives at Disk
+At time 2409 job   23 finishes IO at disk II
+At time 2412 job  123 arrives at CPU
+At time 2423 job   68 finishes IO at disk I
+At time 2424 job  124 arrives at CPU
+At time 2426 job   38 finishes at CPU
+At time 2426 job   38 arrives at Disk
+At time 2440 job  125 arrives at CPU
+At time 2445 job   69 finishes at CPU
+At time 2445 job   69 arrives at Disk
+At time 2448 job   38 finishes IO at disk I
+At time 2462 job  126 arrives at CPU
+At time 2464 job   40 finishes at CPU
+At time 2464 job   40 arrives at Disk
+At time 2470 job   39 finishes IO at disk II
+At time 2480 job  127 arrives at CPU
+At time 2489 job   40 finishes IO at disk I
+At time 2493 job   13 finishes at CPU
+At time 2493 job   13 arrives at Disk
+At time 2503 job  128 arrives at CPU
+At time 2505 job   13 finishes IO at disk I
+At time 2510 job   70 finishes at CPU
+At time 2510 job   70 arrives at Disk
+At time 2525 job  129 arrives at CPU
+At time 2537 job  130 arrives at CPU
+At time 2539 job   71 finishes at CPU
+At time 2539 job   70 finishes IO at disk I
+At time 2539 job   71 arrives at Disk
+At time 2549 job   71 finishes IO at disk I
+At time 2560 job  131 arrives at CPU
+At time 2567 job   41 finishes at CPU
+At time 2567 job   41 arrives at Disk
+At time 2584 job  132 arrives at CPU
+At time 2587 job   12 finishes at CPU
+At time 2587 job   12 arrives at Disk
+At time 2591 job   41 finishes IO at disk I
+At time 2599 job   25 finishes at CPU
+At time 2599 job   25 arrives at Disk
+At time 2602 job  133 arrives at CPU
+At time 2610 job   72 finishes at CPU
+At time 2610 job   72 arrives at Disk
+At time 2613 job   69 finishes IO at disk II
+At time 2614 job   25 finishes IO at disk I
+At time 2627 job  134 arrives at CPU
+At time 2631 job   73 finishes at CPU
+At time 2631 job   73 arrives at Disk
+At time 2645 job   12 finishes IO at disk II
+At time 2646 job  135 arrives at CPU
+At time 2647 job   43 finishes at CPU
+At time 2647 job   43 arrives at Disk
+At time 2656 job  136 arrives at CPU
+At time 2674 job   73 finishes IO at disk II
+At time 2675 job   74 finishes at CPU
+At time 2675 job   74 arrives at Disk
+At time 2678 job  137 arrives at CPU
+At time 2694 job  138 arrives at CPU
+At time 2698 job   43 finishes IO at disk II
+At time 2699 job   44 finishes at CPU
+At time 2699 job   44 arrives at Disk
+At time 2711 job  139 arrives at CPU
+At time 2718 job   74 finishes IO at disk II
+At time 2722 job  140 arrives at CPU
+At time 2726 job   75 finishes at CPU
+At time 2726 job   75 arrives at Disk
+At time 2738 job  141 arrives at CPU
+At time 2738 job   44 finishes IO at disk II
+At time 2747 job   76 finishes at CPU
+At time 2747 job   76 arrives at Disk
+At time 2762 job   77 finishes at CPU
+At time 2762 job   77 arrives at Disk
+At time 2767 job  142 arrives at CPU
+At time 2772 job   26 finishes at CPU
+At time 2772 job   26 arrives at Disk
+At time 2776 job   75 finishes IO at disk II
+At time 2779 job   72 finishes IO at disk I
+At time 2781 job  143 arrives at CPU
+At time 2801 job   78 finishes at CPU
+At time 2801 job   78 arrives at Disk
+At time 2803 job  144 arrives at CPU
+At time 2816 job   46 finishes at CPU
+At time 2816 job   46 arrives at Disk
+At time 2827 job   77 finishes IO at disk I
+At time 2828 job  145 arrives at CPU
+At time 2836 job   76 finishes IO at disk II
+At time 2841 job  146 arrives at CPU
+At time 2842 job   79 finishes at CPU
+At time 2842 job   79 arrives at Disk
+At time 2854 job   78 finishes IO at disk I
+At time 2862 job  147 arrives at CPU
+At time 2863 job   80 finishes at CPU
+At time 2863 job   80 arrives at Disk
+At time 2880 job   79 finishes IO at disk I
+At time 2891 job  148 arrives at CPU
+At time 2892 job   81 finishes at CPU
+At time 2892 job   81 arrives at Disk
+At time 2915 job   82 finishes at CPU
+At time 2915 job   82 arrives at Disk
+At time 2916 job   80 finishes IO at disk I
+At time 2920 job  149 arrives at CPU
+At time 2931 job   26 finishes IO at disk II
+At time 2939 job   15 finishes at CPU
+At time 2939 job   15 arrives at Disk
+At time 2943 job  150 arrives at CPU
+At time 2956 job   83 finishes at CPU
+At time 2956 job   83 arrives at Disk
+At time 2963 job   81 finishes IO at disk I
+At time 2967 job  151 arrives at CPU
+At time 2971 job   46 finishes IO at disk II
+At time 2982 job  152 arrives at CPU
+At time 2983 job   27 finishes at CPU
+At time 2983 job   27 exited
+At time 2994 job   84 finishes at CPU
+At time 2994 job   84 arrives at Disk
+At time 3000 job  153 arrives at CPU
+At time 3013 job   85 finishes at CPU
+At time 3013 job   85 arrives at Disk
+At time 3014 job   15 finishes IO at disk I
+At time 3015 job  154 arrives at CPU
+At time 3025 job   48 finishes at CPU
+At time 3025 job   48 exited
+At time 3038 job   86 finishes at CPU
+At time 3038 job   86 exited
+At time 3040 job   82 finishes IO at disk II
+At time 3042 job  155 arrives at CPU
+At time 3050 job   87 finishes at CPU
+At time 3050 job   87 arrives at Disk
+At time 3063 job   88 finishes at CPU
+At time 3063 job  156 arrives at CPU
+At time 3063 job   88 arrives at Disk
+At time 3073 job   84 finishes IO at disk I
+At time 3073 job   89 finishes at CPU
+At time 3073 job   83 finishes IO at disk II
+At time 3073 job   89 arrives at Disk
+At time 3084 job  157 arrives at CPU
+At time 3089 job   50 finishes at CPU
+At time 3089 job   50 arrives at Disk
+At time 3101 job   87 finishes IO at disk I
+At time 3107 job   42 finishes at CPU
+At time 3107 job   42 arrives at Disk
+At time 3110 job  158 arrives at CPU
+At time 3115 job   85 finishes IO at disk II
+At time 3123 job   89 finishes IO at disk I
+At time 3124 job   90 finishes at CPU
+At time 3124 job   90 exited
+At time 3139 job  159 arrives at CPU
+At time 3149 job   51 finishes at CPU
+At time 3149 job   51 arrives at Disk
+At time 3161 job   42 finishes IO at disk I
+At time 3167 job  160 arrives at CPU
+At time 3175 job   91 finishes at CPU
+At time 3175 job   91 exited
+At time 3192 job   92 finishes at CPU
+At time 3192 job   92 arrives at Disk
+At time 3193 job  161 arrives at CPU
+At time 3208 job   51 finishes IO at disk I
+At time 3215 job  162 arrives at CPU
+At time 3220 job   16 finishes at CPU
+At time 3220 job   16 arrives at Disk
+At time 3229 job  163 arrives at CPU
+At time 3245 job   29 finishes at CPU
+At time 3245 job   92 finishes IO at disk I
+At time 3245 job   29 arrives at Disk
+At time 3254 job  164 arrives at CPU
+At time 3263 job   93 finishes at CPU
+At time 3263 job   93 arrives at Disk
+At time 3268 job   16 finishes IO at disk I
+At time 3279 job   88 finishes IO at disk II
+At time 3282 job  165 arrives at CPU
+At time 3284 job   30 finishes at CPU
+At time 3284 job   30 exited
+At time 3296 job   94 finishes at CPU
+At time 3296 job   94 arrives at Disk
+At time 3303 job  166 arrives at CPU
+At time 3310 job   52 finishes at CPU
+At time 3310 job   52 arrives at Disk
+At time 3321 job   29 finishes IO at disk I
+At time 3323 job   50 finishes IO at disk II
+At time 3332 job  167 arrives at CPU
+At time 3338 job   95 finishes at CPU
+At time 3338 job   95 arrives at Disk
+At time 3350 job   94 finishes IO at disk I
+At time 3357 job  168 arrives at CPU
+At time 3367 job   31 finishes at CPU
+At time 3367 job   31 arrives at Disk
+At time 3376 job  169 arrives at CPU
+At time 3382 job   96 finishes at CPU
+At time 3382 job   96 arrives at Disk
+At time 3392 job   95 finishes IO at disk I
+At time 3392 job   97 finishes at CPU
+At time 3392 job   97 arrives at Disk
+At time 3399 job   93 finishes IO at disk II
+At time 3401 job  170 arrives at CPU
+At time 3407 job   98 finishes at CPU
+At time 3407 job   98 arrives at Disk
+At time 3417 job   31 finishes IO at disk I
+At time 3419 job  171 arrives at CPU
+At time 3422 job   52 finishes IO at disk II
+At time 3426 job   32 finishes at CPU
+At time 3426 job   32 exited
+At time 3443 job   99 finishes at CPU
+At time 3443 job   99 arrives at Disk
+At time 3445 job  172 arrives at CPU
+At time 3454 job   53 finishes at CPU
+At time 3454 job   53 arrives at Disk
+At time 3466 job   96 finishes IO at disk II
+At time 3468 job   97 finishes IO at disk I
+At time 3470 job  100 finishes at CPU
+At time 3470 job  100 arrives at Disk
+At time 3472 job  173 arrives at CPU
+At time 3493 job   33 finishes at CPU
+At time 3493 job   33 exited
+At time 3497 job   99 finishes IO at disk I
+At time 3498 job  174 arrives at CPU
+At time 3506 job  101 finishes at CPU
+At time 3506 job  101 exited
+At time 3518 job  175 arrives at CPU
+At time 3530 job   56 finishes at CPU
+At time 3530 job   56 arrives at Disk
+At time 3531 job  176 arrives at CPU
+At time 3545 job  102 finishes at CPU
+At time 3545 job  102 arrives at Disk
+At time 3556 job  100 finishes IO at disk I
+At time 3556 job  177 arrives at CPU
+At time 3563 job   18 finishes at CPU
+At time 3563 job   98 finishes IO at disk II
+At time 3563 job   18 exited
+At time 3570 job  178 arrives at CPU
+At time 3584 job  179 arrives at CPU
+At time 3587 job  103 finishes at CPU
+At time 3587 job  103 arrives at Disk
+At time 3598 job   56 finishes IO at disk I
+At time 3604 job   58 finishes at CPU
+At time 3604 job   58 arrives at Disk
+At time 3606 job  180 arrives at CPU
+At time 3615 job  103 finishes IO at disk I
+At time 3631 job  104 finishes at CPU
+At time 3631 job  104 arrives at Disk
+At time 3632 job  181 arrives at CPU
+At time 3645 job   58 finishes IO at disk I
+At time 3647 job  182 arrives at CPU
+At time 3655 job   19 finishes at CPU
+At time 3655 job   19 arrives at Disk
+At time 3676 job  183 arrives at CPU
+At time 3679 job  104 finishes IO at disk I
+At time 3680 job  105 finishes at CPU
+At time 3680 job  105 arrives at Disk
+At time 3690 job  184 arrives at CPU
+At time 3698 job  106 finishes at CPU
+At time 3698 job  106 exited
+At time 3702 job  185 arrives at CPU
+At time 3704 job   19 finishes IO at disk I
+At time 3708 job   34 finishes at CPU
+At time 3708 job   34 exited
+At time 3716 job  186 arrives at CPU
+At time 3728 job  107 finishes at CPU
+At time 3728 job  107 exited
+At time 3734 job  187 arrives at CPU
+At time 3756 job   59 finishes at CPU
+At time 3756 job   59 exited
+At time 3758 job  188 arrives at CPU
+At time 3769 job  189 arrives at CPU
+At time 3776 job   55 finishes at CPU
+At time 3776 job   55 arrives at Disk
+At time 3785 job  190 arrives at CPU
+At time 3798 job  105 finishes IO at disk I
+At time 3801 job  108 finishes at CPU
+At time 3801 job  108 exited
+At time 3814 job  191 arrives at CPU
+At time 3819 job  109 finishes at CPU
+At time 3819 job  109 exited
+At time 3834 job  192 arrives at CPU
+At time 3836 job   60 finishes at CPU
+At time 3836 job   60 exited
+At time 3852 job  110 finishes at CPU
+At time 3852 job  110 arrives at Disk
+At time 3856 job  193 arrives at CPU
+At time 3862 job  111 finishes at CPU
+At time 3862 job   55 finishes IO at disk I
+At time 3862 job  111 exited
+At time 3883 job  194 arrives at CPU
+At time 3887 job  112 finishes at CPU
+At time 3887 job  112 arrives at Disk
+At time 3897 job  195 arrives at CPU
+At time 3902 job  110 finishes IO at disk I
+At time 3903 job   62 finishes at CPU
+At time 3903 job   62 arrives at Disk
+At time 3915 job  112 finishes IO at disk I
+At time 3922 job  196 arrives at CPU
+At time 3927 job  113 finishes at CPU
+At time 3927 job  113 arrives at Disk
+At time 3937 job  114 finishes at CPU
+At time 3937 job  114 arrives at Disk
+At time 3942 job  197 arrives at CPU
+At time 3947 job   62 finishes IO at disk I
+At time 3947 job   53 finishes IO at disk II
+At time 3962 job   37 finishes at CPU
+At time 3962 job   37 arrives at Disk
+At time 3969 job  198 arrives at CPU
+At time 3975 job  113 finishes IO at disk I
+At time 3988 job  115 finishes at CPU
+At time 3988 job  115 arrives at Disk
+At time 3995 job  199 arrives at CPU
+At time 4004 job   64 finishes at CPU
+At time 4004 job   64 arrives at Disk
+At time 4011 job  200 arrives at CPU
+At time 4012 job   37 finishes IO at disk I
+At time 4024 job  201 arrives at CPU
+At time 4026 job  102 finishes IO at disk II
+At time 4031 job  116 finishes at CPU
+At time 4031 job  116 arrives at Disk
+At time 4035 job  202 arrives at CPU
+At time 4048 job  117 finishes at CPU
+At time 4048 job  117 exited
+At time 4050 job  115 finishes IO at disk I
+At time 4052 job  203 arrives at CPU
+At time 4062 job  204 arrives at CPU
+At time 4065 job  118 finishes at CPU
+At time 4065 job  118 exited
+At time 4081 job   65 finishes at CPU
+At time 4081 job   65 arrives at Disk
+At time 4089 job  205 arrives at CPU
+At time 4101 job  116 finishes IO at disk I
+At time 4110 job  119 finishes at CPU
+At time 4110 job  206 arrives at CPU
+At time 4110 job  119 arrives at Disk
+At time 4124 job   35 finishes at CPU
+At time 4124 job   35 arrives at Disk
+At time 4136 job   36 finishes at CPU
+At time 4136 job   36 arrives at Disk
+At time 4137 job   65 finishes IO at disk I
+At time 4139 job  114 finishes IO at disk II
+At time 4139 job  207 arrives at CPU
+At time 4157 job  208 arrives at CPU
+At time 4158 job  120 finishes at CPU
+At time 4158 job  120 arrives at Disk
+At time 4171 job   64 finishes IO at disk II
+At time 4182 job   66 finishes at CPU
+At time 4182 job   66 arrives at Disk
+At time 4184 job  209 arrives at CPU
+At time 4196 job  121 finishes at CPU
+At time 4196 job  121 arrives at Disk
+At time 4202 job   35 finishes IO at disk II
+At time 4208 job  210 arrives at CPU
+At time 4214 job   67 finishes at CPU
+At time 4214 job   67 exited
+At time 4217 job  119 finishes IO at disk I
+At time 4224 job  211 arrives at CPU
+At time 4234 job  122 finishes at CPU
+At time 4234 job  122 arrives at Disk
+At time 4244 job  212 arrives at CPU
+At time 4258 job   23 finishes at CPU
+At time 4258 job   23 arrives at Disk
+At time 4260 job  120 finishes IO at disk II
+At time 4269 job  123 finishes at CPU
+At time 4269 job  123 arrives at Disk
+At time 4270 job  213 arrives at CPU
+At time 4283 job   66 finishes IO at disk II
+At time 4285 job  214 arrives at CPU
+At time 4287 job   36 finishes IO at disk I
+At time 4297 job   68 finishes at CPU
+At time 4297 job   68 exited
+At time 4308 job  215 arrives at CPU
+At time 4322 job  124 finishes at CPU
+At time 4322 job  124 exited
+At time 4325 job  216 arrives at CPU
+At time 4348 job  125 finishes at CPU
+At time 4348 job  125 arrives at Disk
+At time 4351 job  217 arrives at CPU
+At time 4363 job  122 finishes IO at disk II
+At time 4363 job  218 arrives at CPU
+At time 4372 job   38 finishes at CPU
+At time 4372 job   38 arrives at Disk
+At time 4378 job  219 arrives at CPU
+At time 4393 job  220 arrives at CPU
+At time 4395 job  123 finishes IO at disk II
+At time 4396 job  126 finishes at CPU
+At time 4396 job  126 arrives at Disk
+At time 4407 job   39 finishes at CPU
+At time 4407 job   39 exited
+At time 4417 job  221 arrives at CPU
+At time 4418 job  125 finishes IO at disk II
+At time 4421 job  127 finishes at CPU
+At time 4421 job  127 arrives at Disk
+At time 4434 job   38 finishes IO at disk II
+At time 4439 job  222 arrives at CPU
+At time 4448 job   40 finishes at CPU
+At time 4448 job   40 arrives at Disk
+At time 4450 job  223 arrives at CPU
+At time 4460 job  126 finishes IO at disk II
+At time 4463 job  224 arrives at CPU
+At time 4473 job  128 finishes at CPU
+At time 4473 job  128 arrives at Disk
+At time 4485 job  225 arrives at CPU
+At time 4486 job   13 finishes at CPU
+At time 4486 job   13 arrives at Disk
+At time 4493 job  127 finishes IO at disk II
+At time 4498 job  226 arrives at CPU
+At time 4514 job  129 finishes at CPU
+At time 4514 job  129 arrives at Disk
+At time 4515 job  121 finishes IO at disk I
+At time 4526 job  227 arrives at CPU
+At time 4529 job  130 finishes at CPU
+At time 4529 job  130 arrives at Disk
+At time 4535 job   40 finishes IO at disk II
+At time 4537 job  228 arrives at CPU
+At time 4545 job   70 finishes at CPU
+At time 4545 job   70 arrives at Disk
+At time 4549 job  229 arrives at CPU
+At time 4556 job   71 finishes at CPU
+At time 4556 job   71 arrives at Disk
+At time 4557 job   23 finishes IO at disk I
+At time 4563 job  128 finishes IO at disk II
+At time 4565 job  230 arrives at CPU
+At time 4581 job  131 finishes at CPU
+At time 4581 job  131 arrives at Disk
+At time 4594 job  231 arrives at CPU
+At time 4606 job  132 finishes at CPU
+At time 4606 job  132 exited
+At time 4609 job   13 finishes IO at disk I
+At time 4613 job  232 arrives at CPU
+At time 4629 job  233 arrives at CPU
+At time 4631 job   41 finishes at CPU
+At time 4631 job   41 arrives at Disk
+At time 4647 job  133 finishes at CPU
+At time 4647 job  133 arrives at Disk
+At time 4649 job  234 arrives at CPU
+At time 4650 job  130 finishes IO at disk I
+At time 4660 job  129 finishes IO at disk II
+At time 4660 job  235 arrives at CPU
+At time 4666 job   69 finishes at CPU
+At time 4666 job   69 arrives at Disk
+At time 4678 job  131 finishes IO at disk I
+At time 4688 job   25 finishes at CPU
+At time 4688 job   25 arrives at Disk
+At time 4689 job  236 arrives at CPU
+At time 4701 job  134 finishes at CPU
+At time 4701 job  134 exited
+At time 4702 job   41 finishes IO at disk I
+At time 4712 job  237 arrives at CPU
+At time 4726 job  238 arrives at CPU
+At time 4727 job   12 finishes at CPU
+At time 4727 job   12 arrives at Disk
+At time 4746 job  135 finishes at CPU
+At time 4746 job  135 arrives at Disk
+At time 4747 job   69 finishes IO at disk I
+At time 4749 job  239 arrives at CPU
+At time 4764 job   70 finishes IO at disk II
+At time 4766 job  240 arrives at CPU
+At time 4771 job  136 finishes at CPU
+At time 4771 job  136 arrives at Disk
+At time 4778 job  241 arrives at CPU
+At time 4789 job   73 finishes at CPU
+At time 4789 job  242 arrives at CPU
+At time 4789 job   73 arrives at Disk
+At time 4790 job   25 finishes IO at disk I
+At time 4802 job   71 finishes IO at disk II
+At time 4811 job  243 arrives at CPU
+At time 4816 job  137 finishes at CPU
+At time 4816 job  137 exited
+At time 4826 job  244 arrives at CPU
+At time 4835 job  138 finishes at CPU
+At time 4835 job  138 arrives at Disk
+At time 4843 job  245 arrives at CPU
+At time 4851 job   12 finishes IO at disk I
+At time 4854 job   43 finishes at CPU
+At time 4854 job   43 arrives at Disk
+At time 4858 job  246 arrives at CPU
+At time 4867 job  139 finishes at CPU
+At time 4867 job  139 exited
+At time 4880 job  136 finishes IO at disk I
+At time 4884 job  247 arrives at CPU
+At time 4884 job   74 finishes at CPU
+At time 4884 job   74 arrives at Disk
+At time 4902 job  140 finishes at CPU
+At time 4902 job  248 arrives at CPU
+At time 4902 job  140 arrives at Disk
+At time 4909 job  138 finishes IO at disk I
+At time 4912 job  249 arrives at CPU
+At time 4913 job  133 finishes IO at disk II
+At time 4924 job  250 arrives at CPU
+At time 4931 job  141 finishes at CPU
+At time 4931 job  141 exited
+At time 4946 job  251 arrives at CPU
+At time 4955 job   44 finishes at CPU
+At time 4955 job   44 arrives at Disk
+At time 4958 job  252 arrives at CPU
+At time 4970 job  142 finishes at CPU
+At time 4970 job  142 arrives at Disk
+At time 4973 job  253 arrives at CPU
+At time 4977 job   43 finishes IO at disk I
+At time 4982 job  135 finishes IO at disk II
+At time 4994 job  254 arrives at CPU
+At time 4995 job   75 finishes at CPU
+At time 4995 job   75 exited
+At time 5023 job  255 arrives at CPU
+At time 5024 job   72 finishes at CPU
+At time 5024 job   72 arrives at Disk
+At time 5037 job  256 arrives at CPU
+At time 5044 job  143 finishes at CPU
+At time 5044 job  143 arrives at Disk
+At time 5050 job   74 finishes IO at disk I
+At time 5054 job  144 finishes at CPU
+At time 5054 job  144 arrives at Disk
+At time 5055 job   73 finishes IO at disk II
+At time 5060 job  257 arrives at CPU
+At time 5070 job  258 arrives at CPU
+At time 5079 job   44 finishes IO at disk I
+At time 5081 job   77 finishes at CPU
+At time 5081 job   77 arrives at Disk
+At time 5096 job  259 arrives at CPU
+At time 5109 job   72 finishes IO at disk I
+At time 5110 job  145 finishes at CPU
+At time 5110 job  260 arrives at CPU
+At time 5110 job  145 arrives at Disk
+At time 5132 job  144 finishes IO at disk I
+At time 5138 job   76 finishes at CPU
+At time 5138 job  261 arrives at CPU
+At time 5138 job   76 arrives at Disk
+At time 5158 job  146 finishes at CPU
+At time 5158 job  146 arrives at Disk
+At time 5166 job  262 arrives at CPU
+At time 5166 job   77 finishes IO at disk I
+At time 5173 job   78 finishes at CPU
+At time 5173 job   78 arrives at Disk
+At time 5174 job  140 finishes IO at disk II
+At time 5183 job  147 finishes at CPU
+At time 5183 job  147 arrives at Disk
+At time 5185 job  263 arrives at CPU
+At time 5192 job  145 finishes IO at disk I
+At time 5193 job  142 finishes IO at disk II
+At time 5195 job  264 arrives at CPU
+At time 5207 job  265 arrives at CPU
+At time 5209 job   79 finishes at CPU
+At time 5209 job   79 arrives at Disk
+At time 5222 job  266 arrives at CPU
+At time 5225 job   76 finishes IO at disk I
+At time 5231 job  148 finishes at CPU
+At time 5231 job  148 arrives at Disk
+At time 5237 job  267 arrives at CPU
+At time 5242 job   78 finishes IO at disk I
+At time 5248 job   80 finishes at CPU
+At time 5248 job   80 arrives at Disk
+At time 5252 job  268 arrives at CPU
+At time 5259 job   79 finishes IO at disk I
+At time 5262 job  269 arrives at CPU
+At time 5270 job  149 finishes at CPU
+At time 5270 job  149 exited
+At time 5285 job  270 arrives at CPU
+At time 5294 job   26 finishes at CPU
+At time 5294 job   26 arrives at Disk
+At time 5308 job  148 finishes IO at disk I
+At time 5311 job  271 arrives at CPU
+At time 5322 job  150 finishes at CPU
+At time 5322 job  150 arrives at Disk
+At time 5325 job  272 arrives at CPU
+At time 5347 job   80 finishes IO at disk I
+At time 5348 job   81 finishes at CPU
+At time 5348 job   81 arrives at Disk
+At time 5351 job  273 arrives at CPU
+At time 5358 job   26 finishes IO at disk I
+At time 5367 job  151 finishes at CPU
+At time 5367 job  274 arrives at CPU
+At time 5367 job  151 arrives at Disk
+At time 5377 job  275 arrives at CPU
+At time 5389 job  150 finishes IO at disk I
+At time 5395 job   46 finishes at CPU
+At time 5395 job   46 arrives at Disk
+At time 5401 job  276 arrives at CPU
+At time 5408 job   81 finishes IO at disk I
+At time 5414 job  152 finishes at CPU
+At time 5414 job  152 arrives at Disk
+At time 5425 job  277 arrives at CPU
+At time 5429 job  151 finishes IO at disk I
+At time 5441 job  153 finishes at CPU
+At time 5441 job  153 arrives at Disk
+At time 5445 job  278 arrives at CPU
+At time 5458 job   15 finishes at CPU
+At time 5458 job   15 exited
+At time 5460 job   46 finishes IO at disk I
+At time 5472 job  279 arrives at CPU
+At time 5477 job  154 finishes at CPU
+At time 5477 job  154 arrives at Disk
+At time 5494 job   82 finishes at CPU
+At time 5494 job  152 finishes IO at disk I
+At time 5494 job   82 arrives at Disk
+At time 5498 job  280 arrives at CPU
+At time 5509 job  281 arrives at CPU
+At time 5520 job  155 finishes at CPU
+At time 5520 job  153 finishes IO at disk I
+At time 5520 job  155 arrives at Disk
+At time 5523 job  282 arrives at CPU
+At time 5545 job  154 finishes IO at disk I
+At time 5545 job  283 arrives at CPU
+At time 5549 job  156 finishes at CPU
+At time 5549 job  156 arrives at Disk
+At time 5567 job  284 arrives at CPU
+At time 5575 job   82 finishes IO at disk I
+At time 5577 job   84 finishes at CPU
+At time 5577 job   84 arrives at Disk
+At time 5588 job  285 arrives at CPU
+At time 5596 job   83 finishes at CPU
+At time 5596 job   83 arrives at Disk
+At time 5597 job  155 finishes IO at disk I
+At time 5607 job  143 finishes IO at disk II
+At time 5616 job  286 arrives at CPU
+At time 5623 job  157 finishes at CPU
+At time 5623 job  157 arrives at Disk
+At time 5636 job  156 finishes IO at disk I
+At time 5642 job   87 finishes at CPU
+At time 5642 job   87 arrives at Disk
+At time 5644 job  287 arrives at CPU
+At time 5652 job   84 finishes IO at disk I
+At time 5657 job  158 finishes at CPU
+At time 5657 job  158 arrives at Disk
+At time 5660 job  288 arrives at CPU
+At time 5675 job  157 finishes IO at disk I
+At time 5678 job  289 arrives at CPU
+At time 5682 job   85 finishes at CPU
+At time 5682 job   85 arrives at Disk
+At time 5690 job  290 arrives at CPU
+At time 5698 job   87 finishes IO at disk I
+At time 5709 job   89 finishes at CPU
+At time 5709 job   89 arrives at Disk
+At time 5717 job  291 arrives at CPU
+At time 5734 job  158 finishes IO at disk I
+At time 5736 job  159 finishes at CPU
+At time 5736 job  159 arrives at Disk
+At time 5739 job  292 arrives at CPU
+At time 5750 job  293 arrives at CPU
+At time 5751 job   42 finishes at CPU
+At time 5751 job   42 arrives at Disk
+At time 5762 job   85 finishes IO at disk I
+At time 5769 job  146 finishes IO at disk II
+At time 5772 job  160 finishes at CPU
+At time 5772 job  294 arrives at CPU
+At time 5772 job  160 exited
+At time 5788 job  161 finishes at CPU
+At time 5788 job  161 exited
+At time 5800 job  295 arrives at CPU
+At time 5809 job   51 finishes at CPU
+At time 5809 job   51 arrives at Disk
+At time 5819 job  162 finishes at CPU
+At time 5819 job  162 arrives at Disk
+At time 5821 job  296 arrives at CPU
+At time 5832 job  147 finishes IO at disk II
+At time 5836 job   89 finishes IO at disk I
+At time 5836 job  297 arrives at CPU
+At time 5841 job  163 finishes at CPU
+At time 5841 job  163 arrives at Disk
+At time 5850 job  298 arrives at CPU
+At time 5857 job   92 finishes at CPU
+At time 5857 job   92 exited
+At time 5863 job  159 finishes IO at disk I
+At time 5873 job  299 arrives at CPU
+At time 5882 job  164 finishes at CPU
+At time 5882 job  164 arrives at Disk
+At time 5890 job  300 arrives at CPU
+At time 5905 job   16 finishes at CPU
+At time 5905 job   16 arrives at Disk
+At time 5906 job   51 finishes IO at disk I
+At time 5907 job  301 arrives at CPU
+At time 5921 job   83 finishes IO at disk II
+At time 5922 job   88 finishes at CPU
+At time 5922 job   88 arrives at Disk
+At time 5930 job  302 arrives at CPU
+At time 5944 job  303 arrives at CPU
+At time 5949 job  163 finishes IO at disk I
+At time 5951 job  165 finishes at CPU
+At time 5951 job  165 arrives at Disk
+At time 5962 job  304 arrives at CPU
+At time 5962 job  164 finishes IO at disk I
+At time 5965 job  166 finishes at CPU
+At time 5965 job  166 arrives at Disk
+At time 5985 job   88 finishes IO at disk I
+At time 5988 job  305 arrives at CPU
+At time 5990 job   29 finishes at CPU
+At time 5990 job   29 arrives at Disk
+At time 6007 job  165 finishes IO at disk I
+At time 6011 job   50 finishes at CPU
+At time 6011 job  306 arrives at CPU
+At time 6011 job   50 arrives at Disk
+At time 6022 job  166 finishes IO at disk I
+At time 6030 job  167 finishes at CPU
+At time 6030 job  167 arrives at Disk
+At time 6032 job  307 arrives at CPU
+At time 6051 job   29 finishes IO at disk I
+At time 6055 job  308 arrives at CPU
+At time 6056 job   94 finishes at CPU
+At time 6056 job   94 arrives at Disk
+At time 6065 job  309 arrives at CPU
+At time 6070 job   50 finishes IO at disk I
+At time 6071 job  168 finishes at CPU
+At time 6071 job  168 exited
+At time 6083 job  310 arrives at CPU
+At time 6095 job  169 finishes at CPU
+At time 6095 job  169 arrives at Disk
+At time 6097 job  311 arrives at CPU
+At time 6114 job   95 finishes at CPU
+At time 6114 job   95 arrives at Disk
+At time 6117 job  312 arrives at CPU
+At time 6122 job  167 finishes IO at disk I
+At time 6128 job  313 arrives at CPU
+At time 6134 job   93 finishes at CPU
+At time 6134 job   93 arrives at Disk
+At time 6141 job   42 finishes IO at disk II
+At time 6147 job  170 finishes at CPU
+At time 6147 job  170 arrives at Disk
+At time 6155 job  314 arrives at CPU
+At time 6158 job  162 finishes IO at disk II
+At time 6162 job   94 finishes IO at disk I
+At time 6174 job  315 arrives at CPU
+At time 6175 job   31 finishes at CPU
+At time 6175 job   31 arrives at Disk
+At time 6185 job  171 finishes at CPU
+At time 6185 job  171 arrives at Disk
+At time 6188 job  169 finishes IO at disk I
+At time 6192 job  316 arrives at CPU
+At time 6195 job   52 finishes at CPU
+At time 6195 job   52 exited
+At time 6199 job   16 finishes IO at disk II
+At time 6218 job  172 finishes at CPU
+At time 6218 job  172 arrives at Disk
+At time 6221 job  317 arrives at CPU
+At time 6233 job   93 finishes IO at disk I
+At time 6245 job   96 finishes at CPU
+At time 6245 job   96 exited
+At time 6246 job  318 arrives at CPU
+At time 6258 job  319 arrives at CPU
+At time 6265 job   97 finishes at CPU
+At time 6265 job   97 arrives at Disk
+At time 6269 job  320 arrives at CPU
+At time 6281 job  321 arrives at CPU
+At time 6283 job  173 finishes at CPU
+At time 6283 job  173 arrives at Disk
+At time 6284 job   31 finishes IO at disk I
+At time 6301 job  322 arrives at CPU
+At time 6302 job   99 finishes at CPU
+At time 6302 job   99 arrives at Disk
+At time 6308 job   95 finishes IO at disk II
+At time 6321 job  323 arrives at CPU
+At time 6323 job  174 finishes at CPU
+At time 6323 job  174 arrives at Disk
+At time 6327 job  172 finishes IO at disk I
+At time 6338 job  324 arrives at CPU
+At time 6341 job  175 finishes at CPU
+At time 6341 job  175 arrives at Disk
+At time 6348 job  170 finishes IO at disk II
+At time 6348 job  325 arrives at CPU
+At time 6359 job   97 finishes IO at disk I
+At time 6369 job  176 finishes at CPU
+At time 6369 job  176 arrives at Disk
+At time 6370 job  326 arrives at CPU
+At time 6391 job  327 arrives at CPU
+At time 6395 job  100 finishes at CPU
+At time 6395 job  100 arrives at Disk
+At time 6397 job   99 finishes IO at disk I
+At time 6405 job  177 finishes at CPU
+At time 6405 job  177 arrives at Disk
+At time 6416 job   98 finishes at CPU
+At time 6416 job  175 finishes IO at disk I
+At time 6416 job   98 arrives at Disk
+At time 6417 job  328 arrives at CPU
+At time 6419 job  171 finishes IO at disk II
+At time 6427 job  329 arrives at CPU
+At time 6434 job  178 finishes at CPU
+At time 6434 job  178 arrives at Disk
+At time 6439 job  176 finishes IO at disk I
+At time 6448 job  179 finishes at CPU
+At time 6448 job  179 arrives at Disk
+At time 6451 job  330 arrives at CPU
+At time 6462 job  177 finishes IO at disk I
+At time 6463 job  173 finishes IO at disk II
+At time 6464 job  331 arrives at CPU
+At time 6475 job   56 finishes at CPU
+At time 6475 job   56 exited
+At time 6490 job  332 arrives at CPU
+At time 6497 job  180 finishes at CPU
+At time 6497 job  180 arrives at Disk
+At time 6505 job  333 arrives at CPU
+At time 6514 job  103 finishes at CPU
+At time 6514 job  103 exited
+At time 6518 job  334 arrives at CPU
+At time 6525 job   98 finishes IO at disk I
+At time 6528 job  335 arrives at CPU
+At time 6535 job  181 finishes at CPU
+At time 6535 job  181 exited
+At time 6540 job  336 arrives at CPU
+At time 6554 job   58 finishes at CPU
+At time 6554 job   58 arrives at Disk
+At time 6564 job  337 arrives at CPU
+At time 6577 job  182 finishes at CPU
+At time 6577 job  338 arrives at CPU
+At time 6577 job  182 arrives at Disk
+At time 6579 job  179 finishes IO at disk I
+At time 6591 job  174 finishes IO at disk II
+At time 6602 job  339 arrives at CPU
+At time 6605 job  183 finishes at CPU
+At time 6605 job  183 arrives at Disk
+At time 6618 job  104 finishes at CPU
+At time 6618 job  104 arrives at Disk
+At time 6620 job  340 arrives at CPU
+At time 6622 job  180 finishes IO at disk I
+At time 6638 job  100 finishes IO at disk II
+At time 6639 job  341 arrives at CPU
+At time 6641 job  184 finishes at CPU
+At time 6641 job  184 arrives at Disk
+At time 6652 job   58 finishes IO at disk I
+At time 6658 job  185 finishes at CPU
+At time 6658 job  185 arrives at Disk
+At time 6665 job  342 arrives at CPU
+At time 6677 job   19 finishes at CPU
+At time 6677 job  183 finishes IO at disk I
+At time 6677 job   19 arrives at Disk
+At time 6685 job  343 arrives at CPU
+At time 6687 job  186 finishes at CPU
+At time 6687 job  186 arrives at Disk
+At time 6697 job  178 finishes IO at disk II
+At time 6701 job  184 finishes IO at disk I
+At time 6708 job  344 arrives at CPU
+At time 6709 job  187 finishes at CPU
+At time 6709 job  187 arrives at Disk
+At time 6719 job  188 finishes at CPU
+At time 6719 job  188 arrives at Disk
+At time 6724 job  185 finishes IO at disk I
+At time 6729 job  189 finishes at CPU
+At time 6729 job  345 arrives at CPU
+At time 6729 job  189 arrives at Disk
+At time 6736 job  182 finishes IO at disk II
+At time 6743 job  190 finishes at CPU
+At time 6743 job  190 arrives at Disk
+At time 6744 job  346 arrives at CPU
+At time 6745 job   19 finishes IO at disk I
+At time 6756 job  104 finishes IO at disk II
+At time 6758 job  105 finishes at CPU
+At time 6758 job  105 arrives at Disk
+At time 6770 job  191 finishes at CPU
+At time 6770 job  191 arrives at Disk
+At time 6771 job  347 arrives at CPU
+At time 6773 job  187 finishes IO at disk I
+At time 6792 job  348 arrives at CPU
+At time 6796 job  192 finishes at CPU
+At time 6796 job  192 arrives at Disk
+At time 6797 job  186 finishes IO at disk II
+At time 6802 job  349 arrives at CPU
+At time 6808 job  193 finishes at CPU
+At time 6808 job  193 arrives at Disk
+At time 6811 job  189 finishes IO at disk I
+At time 6818 job  350 arrives at CPU
+At time 6825 job   55 finishes at CPU
+At time 6825 job   55 arrives at Disk
+At time 6830 job  188 finishes IO at disk II
+At time 6841 job  194 finishes at CPU
+At time 6841 job  105 finishes IO at disk I
+At time 6841 job  194 arrives at Disk
+At time 6845 job  351 arrives at CPU
+At time 6865 job  352 arrives at CPU
+At time 6869 job  192 finishes IO at disk I
+At time 6870 job  195 finishes at CPU
+At time 6870 job  195 arrives at Disk
+At time 6878 job  353 arrives at CPU
+At time 6880 job  110 finishes at CPU
+At time 6880 job  110 exited
+At time 6897 job   55 finishes IO at disk I
+At time 6899 job  354 arrives at CPU
+At time 6901 job  112 finishes at CPU
+At time 6901 job  112 arrives at Disk
+At time 6919 job  196 finishes at CPU
+At time 6919 job  196 arrives at Disk
+At time 6921 job  355 arrives at CPU
+At time 6922 job  194 finishes IO at disk I
+At time 6933 job  356 arrives at CPU
+At time 6937 job  190 finishes IO at disk II
+At time 6941 job  197 finishes at CPU
+At time 6941 job  197 arrives at Disk
+At time 6960 job  357 arrives at CPU
+At time 6963 job  195 finishes IO at disk I
+At time 6964 job   62 finishes at CPU
+At time 6964 job   62 arrives at Disk
+At time 6976 job  112 finishes IO at disk I
+At time 6980 job  358 arrives at CPU
+At time 6988 job   53 finishes at CPU
+At time 6988 job   53 arrives at Disk
+At time 7002 job  359 arrives at CPU
+At time 7009 job  197 finishes IO at disk I
+At time 7014 job  198 finishes at CPU
+At time 7014 job  198 arrives at Disk
+At time 7026 job  360 arrives at CPU
+At time 7026 job   62 finishes IO at disk I
+At time 7041 job  113 finishes at CPU
+At time 7041 job  113 arrives at Disk
+At time 7043 job  361 arrives at CPU
+At time 7054 job  199 finishes at CPU
+At time 7054 job  199 exited
+At time 7056 job  362 arrives at CPU
+At time 7062 job   53 finishes IO at disk I
+At time 7064 job  200 finishes at CPU
+At time 7064 job  200 arrives at Disk
+At time 7081 job  363 arrives at CPU
+At time 7090 job   37 finishes at CPU
+At time 7090 job   37 exited
+At time 7091 job  198 finishes IO at disk I
+At time 7109 job  364 arrives at CPU
+At time 7118 job  201 finishes at CPU
+At time 7118 job  201 exited
+At time 7122 job  365 arrives at CPU
+At time 7130 job  102 finishes at CPU
+At time 7130 job  102 arrives at Disk
+At time 7145 job  202 finishes at CPU
+At time 7145 job  202 exited
+At time 7149 job  366 arrives at CPU
+At time 7152 job  113 finishes IO at disk I
+At time 7164 job  115 finishes at CPU
+At time 7164 job  115 arrives at Disk
+At time 7175 job  367 arrives at CPU
+At time 7178 job  203 finishes at CPU
+At time 7178 job  203 arrives at Disk
+At time 7191 job  200 finishes IO at disk I
+At time 7194 job  204 finishes at CPU
+At time 7194 job  204 arrives at Disk
+At time 7195 job  368 arrives at CPU
+At time 7206 job  191 finishes IO at disk II
+At time 7206 job  205 finishes at CPU
+At time 7206 job  205 arrives at Disk
+At time 7209 job  102 finishes IO at disk I
+At time 7217 job  369 arrives at CPU
+At time 7222 job  116 finishes at CPU
+At time 7222 job  116 arrives at Disk
+At time 7226 job  193 finishes IO at disk II
+At time 7233 job  370 arrives at CPU
+At time 7237 job  206 finishes at CPU
+At time 7237 job  206 arrives at Disk
+At time 7247 job  115 finishes IO at disk I
+At time 7249 job   65 finishes at CPU
+At time 7249 job  196 finishes IO at disk II
+At time 7249 job   65 exited
+At time 7250 job  371 arrives at CPU
+At time 7260 job  114 finishes at CPU
+At time 7260 job  114 exited
+At time 7268 job  372 arrives at CPU
+At time 7275 job  207 finishes at CPU
+At time 7275 job  207 arrives at Disk
+At time 7289 job  208 finishes at CPU
+At time 7289 job  208 exited
+At time 7292 job  373 arrives at CPU
+At time 7298 job  204 finishes IO at disk I
+At time 7307 job   64 finishes at CPU
+At time 7307 job   64 exited
+At time 7312 job  374 arrives at CPU
+At time 7323 job  375 arrives at CPU
+At time 7330 job  209 finishes at CPU
+At time 7330 job  209 arrives at Disk
+At time 7345 job  376 arrives at CPU
+At time 7352 job  116 finishes IO at disk I
+At time 7353 job   35 finishes at CPU
+At time 7353 job   35 exited
+At time 7360 job  377 arrives at CPU
+At time 7369 job  210 finishes at CPU
+At time 7369 job  210 exited
+At time 7370 job  378 arrives at CPU
+At time 7383 job  379 arrives at CPU
+At time 7392 job  119 finishes at CPU
+At time 7392 job  119 arrives at Disk
+At time 7399 job  380 arrives at CPU
+At time 7412 job  211 finishes at CPU
+At time 7412 job  381 arrives at CPU
+At time 7412 job  211 arrives at Disk
+At time 7419 job  207 finishes IO at disk I
+At time 7422 job  212 finishes at CPU
+At time 7422 job  212 arrives at Disk
+At time 7429 job  382 arrives at CPU
+At time 7435 job  209 finishes IO at disk I
+At time 7441 job  203 finishes IO at disk II
+At time 7448 job  120 finishes at CPU
+At time 7448 job  120 arrives at Disk
+At time 7457 job  383 arrives at CPU
+At time 7461 job  213 finishes at CPU
+At time 7461 job  213 arrives at Disk
+At time 7462 job  119 finishes IO at disk I
+At time 7472 job   66 finishes at CPU
+At time 7472 job   66 arrives at Disk
+At time 7473 job  384 arrives at CPU
+At time 7485 job  205 finishes IO at disk II
+At time 7486 job  214 finishes at CPU
+At time 7486 job  214 arrives at Disk
+At time 7489 job  212 finishes IO at disk I
+At time 7490 job  385 arrives at CPU
+At time 7500 job  386 arrives at CPU
+At time 7512 job  206 finishes IO at disk II
+At time 7515 job   36 finishes at CPU
+At time 7515 job   36 arrives at Disk
+At time 7525 job  387 arrives at CPU
+At time 7535 job  215 finishes at CPU
+At time 7535 job  120 finishes IO at disk I
+At time 7535 job  215 arrives at Disk
+At time 7549 job  216 finishes at CPU
+At time 7549 job  216 arrives at Disk
+At time 7551 job  388 arrives at CPU
+At time 7560 job   66 finishes IO at disk I
+At time 7563 job  217 finishes at CPU
+At time 7563 job  217 arrives at Disk
+At time 7564 job  389 arrives at CPU
+At time 7567 job  211 finishes IO at disk II
+At time 7578 job  122 finishes at CPU
+At time 7578 job  122 arrives at Disk
+At time 7589 job  390 arrives at CPU
+At time 7590 job  213 finishes IO at disk II
+At time 7592 job  218 finishes at CPU
+At time 7592 job   36 finishes IO at disk I
+At time 7592 job  218 exited
+At time 7603 job  219 finishes at CPU
+At time 7603 job  219 arrives at Disk
+At time 7615 job  391 arrives at CPU
+At time 7625 job  392 arrives at CPU
+At time 7627 job  215 finishes IO at disk I
+At time 7629 job  220 finishes at CPU
+At time 7629 job  220 arrives at Disk
+At time 7643 job  393 arrives at CPU
+At time 7647 job  123 finishes at CPU
+At time 7647 job  123 arrives at Disk
+At time 7653 job  217 finishes IO at disk I
+At time 7654 job  394 arrives at CPU
+At time 7659 job  221 finishes at CPU
+At time 7659 job  221 exited
+At time 7663 job  214 finishes IO at disk II
+At time 7679 job  125 finishes at CPU
+At time 7679 job  125 arrives at Disk
+At time 7680 job  395 arrives at CPU
+At time 7696 job  396 arrives at CPU
+At time 7706 job   38 finishes at CPU
+At time 7706 job  219 finishes IO at disk I
+At time 7706 job   38 arrives at Disk
+At time 7720 job  222 finishes at CPU
+At time 7720 job  222 arrives at Disk
+At time 7722 job  220 finishes IO at disk I
+At time 7725 job  397 arrives at CPU
+At time 7733 job  216 finishes IO at disk II
+At time 7734 job  223 finishes at CPU
+At time 7734 job  223 arrives at Disk
+At time 7744 job  126 finishes at CPU
+At time 7744 job  126 arrives at Disk
+At time 7749 job  125 finishes IO at disk I
+At time 7753 job  398 arrives at CPU
+At time 7758 job  122 finishes IO at disk II
+At time 7767 job  224 finishes at CPU
+At time 7767 job  224 arrives at Disk
+At time 7769 job  399 arrives at CPU
+At time 7779 job  400 arrives at CPU
+At time 7789 job   38 finishes IO at disk I
+At time 7792 job  225 finishes at CPU
+At time 7792 job  225 arrives at Disk
+At time 7799 job  401 arrives at CPU
+At time 7811 job  223 finishes IO at disk I
+At time 7812 job  402 arrives at CPU
+At time 7818 job  127 finishes at CPU
+At time 7818 job  127 arrives at Disk
+At time 7825 job  403 arrives at CPU
+At time 7834 job  226 finishes at CPU
+At time 7834 job  226 arrives at Disk
+At time 7844 job  224 finishes IO at disk I
+At time 7849 job  121 finishes at CPU
+At time 7849 job  121 arrives at Disk
+At time 7852 job  404 arrives at CPU
+At time 7857 job  123 finishes IO at disk II
+At time 7864 job  225 finishes IO at disk I
+At time 7870 job  405 arrives at CPU
+At time 7874 job  227 finishes at CPU
+At time 7874 job  227 exited
+At time 7881 job  406 arrives at CPU
+At time 7890 job   40 finishes at CPU
+At time 7890 job   40 arrives at Disk
+At time 7903 job  228 finishes at CPU
+At time 7903 job  228 arrives at Disk
+At time 7909 job  407 arrives at CPU
+At time 7916 job  127 finishes IO at disk I
+At time 7923 job  222 finishes IO at disk II
+At time 7930 job  229 finishes at CPU
+At time 7930 job  229 arrives at Disk
+At time 7936 job  408 arrives at CPU
+At time 7953 job   23 finishes at CPU
+At time 7953 job   23 arrives at Disk
+At time 7959 job  121 finishes IO at disk I
+At time 7962 job  409 arrives at CPU
+At time 7968 job  128 finishes at CPU
+At time 7968 job  128 exited
+At time 7972 job  126 finishes IO at disk II
+At time 7973 job  410 arrives at CPU
+At time 7992 job  230 finishes at CPU
+At time 7992 job  230 exited
+At time 7995 job  411 arrives at CPU
+At time 8002 job  231 finishes at CPU
+At time 8002 job  231 arrives at Disk
+At time 8012 job   13 finishes at CPU
+At time 8012 job   13 arrives at Disk
+At time 8017 job   40 finishes IO at disk I
+At time 8022 job  412 arrives at CPU
+At time 8029 job  232 finishes at CPU
+At time 8029 job  232 exited
+At time 8036 job  226 finishes IO at disk II
+At time 8041 job  233 finishes at CPU
+At time 8041 job  233 arrives at Disk
+At time 8044 job  413 arrives at CPU
+At time 8056 job  234 finishes at CPU
+At time 8056 job  234 arrives at Disk
+At time 8057 job  229 finishes IO at disk I
+At time 8060 job  414 arrives at CPU
+At time 8067 job  228 finishes IO at disk II
+At time 8069 job  130 finishes at CPU
+At time 8069 job  130 arrives at Disk
+At time 8071 job  415 arrives at CPU
+At time 8082 job  231 finishes IO at disk I
+At time 8088 job  129 finishes at CPU
+At time 8088 job  129 exited
+At time 8091 job  416 arrives at CPU
+At time 8107 job  235 finishes at CPU
+At time 8107 job  235 exited
+At time 8116 job  417 arrives at CPU
+At time 8128 job  131 finishes at CPU
+At time 8128 job  131 exited
+At time 8133 job  418 arrives at CPU
+At time 8143 job  236 finishes at CPU
+At time 8143 job  236 arrives at Disk
+At time 8155 job  419 arrives at CPU
+At time 8159 job   41 finishes at CPU
+At time 8159 job   41 arrives at Disk
+At time 8165 job  233 finishes IO at disk I
+At time 8165 job  420 arrives at CPU
+At time 8184 job   23 finishes IO at disk II
+At time 8188 job  237 finishes at CPU
+At time 8188 job  421 arrives at CPU
+At time 8188 job  237 arrives at Disk
+At time 8204 job  130 finishes IO at disk I
+At time 8205 job  422 arrives at CPU
+At time 8214 job  238 finishes at CPU
+At time 8214 job  238 arrives at Disk
+At time 8229 job  236 finishes IO at disk I
+At time 8233 job  423 arrives at CPU
+At time 8243 job   69 finishes at CPU
+At time 8243 job   69 arrives at Disk
+At time 8252 job  424 arrives at CPU
+At time 8260 job  239 finishes at CPU
+At time 8260 job  239 arrives at Disk
+At time 8265 job  237 finishes IO at disk I
+At time 8266 job  425 arrives at CPU
+At time 8271 job   13 finishes IO at disk II
+At time 8289 job   70 finishes at CPU
+At time 8289 job   70 arrives at Disk
+At time 8292 job  426 arrives at CPU
+At time 8310 job  238 finishes IO at disk I
+At time 8316 job  427 arrives at CPU
+At time 8318 job  240 finishes at CPU
+At time 8318 job  240 arrives at Disk
+At time 8343 job  241 finishes at CPU
+At time 8343 job  241 exited
+At time 8344 job   69 finishes IO at disk I
+At time 8344 job  428 arrives at CPU
+At time 8360 job  429 arrives at CPU
+At time 8364 job  242 finishes at CPU
+At time 8364 job  242 arrives at Disk
+At time 8373 job  430 arrives at CPU
+At time 8374 job   25 finishes at CPU
+At time 8374 job   25 arrives at Disk
+At time 8383 job   70 finishes IO at disk I
+At time 8388 job  431 arrives at CPU
+At time 8389 job  234 finishes IO at disk II
+At time 8391 job   71 finishes at CPU
+At time 8391 job   71 arrives at Disk
+At time 8403 job  240 finishes IO at disk I
+At time 8410 job  243 finishes at CPU
+At time 8410 job  243 arrives at Disk
+At time 8411 job  432 arrives at CPU
+At time 8422 job  244 finishes at CPU
+At time 8422 job  244 arrives at Disk
+At time 8427 job  433 arrives at CPU
+At time 8433 job  242 finishes IO at disk I
+At time 8437 job  245 finishes at CPU
+At time 8437 job  245 arrives at Disk
+At time 8438 job   41 finishes IO at disk II
+At time 8447 job  434 arrives at CPU
+At time 8447 job   71 finishes IO at disk I
+At time 8461 job   12 finishes at CPU
+At time 8461 job   12 arrives at Disk
+At time 8462 job  435 arrives at CPU
+At time 8486 job  436 arrives at CPU
+At time 8487 job  246 finishes at CPU
+At time 8487 job  243 finishes IO at disk I
+At time 8487 job  246 arrives at Disk
+At time 8504 job  245 finishes IO at disk I
+At time 8508 job  136 finishes at CPU
+At time 8508 job  136 arrives at Disk
+At time 8510 job  437 arrives at CPU
+At time 8518 job   12 finishes IO at disk I
+At time 8519 job  247 finishes at CPU
+At time 8519 job  247 arrives at Disk
+At time 8524 job  438 arrives at CPU
+At time 8541 job  246 finishes IO at disk I
+At time 8542 job  248 finishes at CPU
+At time 8542 job  248 arrives at Disk
+At time 8553 job  439 arrives at CPU
+At time 8559 job  138 finishes at CPU
+At time 8559 job  138 arrives at Disk
+At time 8562 job  136 finishes IO at disk I
+At time 8566 job  440 arrives at CPU
+At time 8581 job  249 finishes at CPU
+At time 8581 job  249 arrives at Disk
+At time 8584 job  239 finishes IO at disk II
+At time 8588 job  441 arrives at CPU
+At time 8597 job  247 finishes IO at disk I
+At time 8608 job  133 finishes at CPU
+At time 8608 job  133 arrives at Disk
+At time 8616 job  442 arrives at CPU
+At time 8628 job  250 finishes at CPU
+At time 8628 job  250 arrives at Disk
+At time 8634 job  248 finishes IO at disk I
+At time 8640 job  251 finishes at CPU
+At time 8640 job  251 arrives at Disk
+At time 8644 job  443 arrives at CPU
+At time 8653 job   25 finishes IO at disk II
+At time 8658 job  252 finishes at CPU
+At time 8658 job  252 arrives at Disk
+At time 8661 job  249 finishes IO at disk I
+At time 8664 job  444 arrives at CPU
+At time 8673 job  253 finishes at CPU
+At time 8673 job  253 arrives at Disk
+At time 8674 job  445 arrives at CPU
+At time 8680 job  244 finishes IO at disk II
+At time 8684 job  446 arrives at CPU
+At time 8685 job  133 finishes IO at disk I
+At time 8699 job  447 arrives at CPU
+At time 8702 job   43 finishes at CPU
+At time 8702 job   43 arrives at Disk
+At time 8714 job  448 arrives at CPU
+At time 8719 job  135 finishes at CPU
+At time 8719 job  135 arrives at Disk
+At time 8722 job  251 finishes IO at disk I
+At time 8728 job  449 arrives at CPU
+At time 8731 job  138 finishes IO at disk II
+At time 8747 job  254 finishes at CPU
+At time 8747 job  254 arrives at Disk
+At time 8750 job  450 arrives at CPU
+At time 8760 job  255 finishes at CPU
+At time 8760 job  255 arrives at Disk
+At time 8768 job  253 finishes IO at disk I
+At time 8772 job  451 arrives at CPU
+At time 8776 job  256 finishes at CPU
+At time 8776 job  256 arrives at Disk
+At time 8788 job  250 finishes IO at disk II
+At time 8789 job   74 finishes at CPU
+At time 8789 job   74 arrives at Disk
+At time 8791 job   43 finishes IO at disk I
+At time 8794 job  452 arrives at CPU
+At time 8804 job  453 arrives at CPU
+At time 8806 job   73 finishes at CPU
+At time 8806 job   73 exited
+At time 8817 job  252 finishes IO at disk II
+At time 8830 job  454 arrives at CPU
+At time 8834 job  257 finishes at CPU
+At time 8834 job  257 arrives at Disk
+At time 8846 job  455 arrives at CPU
+At time 8854 job  254 finishes IO at disk I
+At time 8859 job  258 finishes at CPU
+At time 8859 job  258 exited
+At time 8867 job  456 arrives at CPU
+At time 8878 job   44 finishes at CPU
+At time 8878 job   44 arrives at Disk
+At time 8891 job  457 arrives at CPU
+At time 8892 job  256 finishes IO at disk I
+At time 8893 job  259 finishes at CPU
+At time 8893 job  259 arrives at Disk
+At time 8903 job  458 arrives at CPU
+At time 8914 job  459 arrives at CPU
+At time 8918 job   72 finishes at CPU
+At time 8918 job   72 exited
+At time 8921 job  257 finishes IO at disk I
+At time 8935 job  460 arrives at CPU
+At time 8939 job  260 finishes at CPU
+At time 8939 job  260 arrives at Disk
+At time 8950 job  461 arrives at CPU
+At time 8950 job   44 finishes IO at disk I
+At time 8963 job  144 finishes at CPU
+At time 8963 job  144 exited
+At time 8977 job  462 arrives at CPU
+At time 8980 job  261 finishes at CPU
+At time 8980 job  261 arrives at Disk
+At time 8993 job  262 finishes at CPU
+At time 8993 job  262 arrives at Disk
+At time 9001 job  463 arrives at CPU
+At time 9005 job   77 finishes at CPU
+At time 9005 job   77 exited
+At time 9007 job  259 finishes IO at disk I
+At time 9017 job  135 finishes IO at disk II
+At time 9022 job  464 arrives at CPU
+At time 9022 job  140 finishes at CPU
+At time 9022 job  140 arrives at Disk
+At time 9035 job  263 finishes at CPU
+At time 9035 job  263 arrives at Disk
+At time 9042 job  465 arrives at CPU
+At time 9045 job  255 finishes IO at disk II
+At time 9046 job  260 finishes IO at disk I
+At time 9060 job  145 finishes at CPU
+At time 9060 job  145 arrives at Disk
+At time 9068 job  466 arrives at CPU
+At time 9079 job  467 arrives at CPU
+At time 9081 job  261 finishes IO at disk I
+At time 9087 job  142 finishes at CPU
+At time 9087 job  142 arrives at Disk
+At time 9091 job  468 arrives at CPU
+At time 9097 job  140 finishes IO at disk I
+At time 9100 job  264 finishes at CPU
+At time 9100 job  264 exited
+At time 9112 job  469 arrives at CPU
+At time 9119 job  265 finishes at CPU
+At time 9119 job  265 exited
+At time 9130 job  470 arrives at CPU
+At time 9136 job  266 finishes at CPU
+At time 9136 job  266 exited
+At time 9149 job  471 arrives at CPU
+At time 9150 job   76 finishes at CPU
+At time 9150 job   76 arrives at Disk
+At time 9171 job  267 finishes at CPU
+At time 9171 job  267 arrives at Disk
+At time 9175 job  472 arrives at CPU
+At time 9177 job  145 finishes IO at disk I
+At time 9186 job  473 arrives at CPU
+At time 9189 job   74 finishes IO at disk II
+At time 9197 job   78 finishes at CPU
+At time 9197 job   78 arrives at Disk
+At time 9198 job  474 arrives at CPU
+At time 9212 job  268 finishes at CPU
+At time 9212 job  268 arrives at Disk
+At time 9222 job  142 finishes IO at disk I
+At time 9225 job  475 arrives at CPU
+At time 9233 job   79 finishes at CPU
+At time 9233 job   79 arrives at Disk
+At time 9240 job  262 finishes IO at disk II
+At time 9243 job   76 finishes IO at disk I
+At time 9248 job  476 arrives at CPU
+At time 9255 job  269 finishes at CPU
+At time 9255 job  269 exited
+At time 9262 job  477 arrives at CPU
+At time 9266 job  270 finishes at CPU
+At time 9266 job  270 arrives at Disk
+At time 9276 job   78 finishes IO at disk I
+At time 9283 job  148 finishes at CPU
+At time 9283 job  148 arrives at Disk
+At time 9289 job  478 arrives at CPU
+At time 9301 job  271 finishes at CPU
+At time 9301 job   79 finishes IO at disk I
+At time 9301 job  271 arrives at Disk
+At time 9313 job  272 finishes at CPU
+At time 9313 job  272 exited
+At time 9314 job  479 arrives at CPU
+At time 9327 job  270 finishes IO at disk I
+At time 9338 job   80 finishes at CPU
+At time 9338 job   80 arrives at Disk
+At time 9340 job  480 arrives at CPU
+At time 9351 job  481 arrives at CPU
+At time 9355 job  273 finishes at CPU
+At time 9355 job  273 arrives at Disk
+At time 9356 job  148 finishes IO at disk I
+At time 9365 job  263 finishes IO at disk II
+At time 9367 job  482 arrives at CPU
+At time 9368 job   26 finishes at CPU
+At time 9368 job   26 arrives at Disk
+At time 9383 job  271 finishes IO at disk I
+At time 9386 job  483 arrives at CPU
+At time 9395 job  274 finishes at CPU
+At time 9395 job  274 arrives at Disk
+At time 9406 job   80 finishes IO at disk I
+At time 9411 job  275 finishes at CPU
+At time 9411 job  275 exited
+At time 9415 job  484 arrives at CPU
+At time 9430 job  150 finishes at CPU
+At time 9430 job  150 arrives at Disk
+At time 9434 job  485 arrives at CPU
+At time 9441 job   26 finishes IO at disk I
+At time 9445 job  486 arrives at CPU
+At time 9455 job  276 finishes at CPU
+At time 9455 job  276 exited
+At time 9471 job   81 finishes at CPU
+At time 9471 job   81 exited
+At time 9473 job  487 arrives at CPU
+At time 9494 job  488 arrives at CPU
+At time 9497 job  277 finishes at CPU
+At time 9497 job  277 arrives at Disk
+At time 9512 job  489 arrives at CPU
+At time 9521 job  151 finishes at CPU
+At time 9521 job  151 arrives at Disk
+At time 9523 job  274 finishes IO at disk I
+At time 9527 job  490 arrives at CPU
+At time 9538 job  278 finishes at CPU
+At time 9538 job  278 arrives at Disk
+At time 9541 job  491 arrives at CPU
+At time 9548 job  267 finishes IO at disk II
+At time 9554 job  492 arrives at CPU
+At time 9563 job  150 finishes IO at disk I
+At time 9566 job   46 finishes at CPU
+At time 9566 job   46 exited
+At time 9573 job  493 arrives at CPU
+At time 9576 job  279 finishes at CPU
+At time 9576 job  279 exited
+At time 9587 job  494 arrives at CPU
+At time 9592 job  152 finishes at CPU
+At time 9592 job  152 arrives at Disk
+At time 9602 job  495 arrives at CPU
+At time 9609 job  280 finishes at CPU
+At time 9609 job  280 arrives at Disk
+At time 9610 job  277 finishes IO at disk I
+At time 9623 job  496 arrives at CPU
+At time 9623 job  281 finishes at CPU
+At time 9623 job  281 arrives at Disk
+At time 9632 job  268 finishes IO at disk II
+At time 9633 job  278 finishes IO at disk I
+At time 9638 job  153 finishes at CPU
+At time 9638 job  153 arrives at Disk
+At time 9639 job  497 arrives at CPU
+At time 9659 job  152 finishes IO at disk I
+At time 9660 job  498 arrives at CPU
+At time 9663 job  282 finishes at CPU
+At time 9663 job  282 exited
+At time 9671 job  499 arrives at CPU
+At time 9687 job  154 finishes at CPU
+At time 9687 job  154 arrives at Disk
+At time 9688 job  500 arrives at CPU
+At time 9704 job  283 finishes at CPU
+At time 9704 job  283 arrives at Disk
+At time 9705 job  281 finishes IO at disk I
+At time 9714 job  501 arrives at CPU
+At time 9724 job  273 finishes IO at disk II
+At time 9728 job  284 finishes at CPU
+At time 9728 job  284 arrives at Disk
+At time 9730 job  502 arrives at CPU
+At time 9742 job  153 finishes IO at disk I
+At time 9753 job   82 finishes at CPU
+At time 9753 job   82 arrives at Disk
+At time 9756 job  503 arrives at CPU
+At time 9765 job  154 finishes IO at disk I
+At time 9774 job  504 arrives at CPU
+At time 9781 job  285 finishes at CPU
+At time 9781 job  285 arrives at Disk
+At time 9791 job  155 finishes at CPU
+At time 9791 job  155 arrives at Disk
+At time 9802 job  505 arrives at CPU
+At time 9808 job  284 finishes IO at disk I
+At time 9813 job  143 finishes at CPU
+At time 9813 job  143 arrives at Disk
+At time 9820 job  151 finishes IO at disk II
+At time 9825 job  506 arrives at CPU
+At time 9826 job   82 finishes IO at disk I
+At time 9831 job  286 finishes at CPU
+At time 9831 job  286 exited
+At time 9847 job  156 finishes at CPU
+At time 9847 job  156 exited
+At time 9850 job  507 arrives at CPU
+At time 9873 job  508 arrives at CPU
+At time 9876 job  287 finishes at CPU
+At time 9876 job  287 arrives at Disk
+At time 9887 job  509 arrives at CPU
+At time 9901 job  285 finishes IO at disk I
+At time 9902 job   84 finishes at CPU
+At time 9902 job   84 exited
+At time 9915 job  510 arrives at CPU
+At time 9925 job  288 finishes at CPU
+At time 9925 job  288 arrives at Disk
+At time 9929 job  511 arrives at CPU
+At time 9942 job  143 finishes IO at disk I
+At time 9948 job  512 arrives at CPU
+At time 9949 job  157 finishes at CPU
+At time 9949 job  157 exited
+At time 9961 job  289 finishes at CPU
+At time 9961 job  289 arrives at Disk
+At time 9975 job  513 arrives at CPU
+At time 9978 job  290 finishes at CPU
+At time 9978 job  290 arrives at Disk
+At time 9985 job  287 finishes IO at disk I
+At time 9987 job  514 arrives at CPU
+At time 9995 job   87 finishes at CPU
+At time 9995 job   87 arrives at Disk
+At time 10000 job    0 indicates that simulation has ended
+All done
+Statistics:
+===============================================
+Number of events(throughput): 1920
+Number of Jobs: 514
+Max size reached by Job Queue: 6
+Max size reached by CPU Queue: 400
+Max size reached by Disk I Queue: 3
+Max size reached by Disk II Queue: 4
